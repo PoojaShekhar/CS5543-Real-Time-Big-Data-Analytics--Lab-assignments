@@ -1,0 +1,94 @@
+if (feature[90] <= -128.0)
+   if (feature[93] <= -117.0)
+    if (feature[6] <= -126.0)
+     if (feature[122] <= -128.0)
+      if (feature[68] <= -57.0)
+       return false;
+      else if (feature[68] > -57.0)
+       return false;
+     else if (feature[122] > -128.0)
+      if (feature[29] <= -119.0)
+       return false;
+      else if (feature[29] > -119.0)
+       return true;
+    else if (feature[6] > -126.0)
+     if (feature[35] <= -128.0)
+      if (feature[98] <= -122.0)
+       return false;
+      else if (feature[98] > -122.0)
+       return true;
+     else if (feature[35] > -128.0)
+      if (feature[62] <= -128.0)
+       return false;
+      else if (feature[62] > -128.0)
+       return false;
+   else if (feature[93] > -117.0)
+    if (feature[126] <= -128.0)
+     if (feature[123] <= -127.0)
+      if (feature[43] <= -112.0)
+       return false;
+      else if (feature[43] > -112.0)
+       return false;
+     else if (feature[123] > -127.0)
+      if (feature[113] <= -125.0)
+       return false;
+      else if (feature[113] > -125.0)
+       return true;
+    else if (feature[126] > -128.0)
+     if (feature[110] <= -70.0)
+      if (feature[70] <= -13.0)
+       return true;
+      else if (feature[70] > -13.0)
+       return false;
+     else if (feature[110] > -70.0)
+      if (feature[8] <= -33.0)
+       return false;
+      else if (feature[8] > -33.0)
+       return true;
+  else if (feature[90] > -128.0)
+   if (feature[29] <= -128.0)
+    if (feature[68] <= -119.0)
+     if (feature[53] <= -128.0)
+      if (feature[20] <= -92.0)
+       return false;
+      else if (feature[20] > -92.0)
+       return true;
+     else if (feature[53] > -128.0)
+      if (feature[122] <= -26.0)
+       return true;
+      else if (feature[122] > -26.0)
+       return false;
+    else if (feature[68] > -119.0)
+     if (feature[41] <= -97.0)
+      if (feature[70] <= -128.0)
+       return false;
+      else if (feature[70] > -128.0)
+       return true;
+     else if (feature[41] > -97.0)
+      if (feature[97] <= -124.0)
+       return true;
+      else if (feature[97] > -124.0)
+       return false;
+   else if (feature[29] > -128.0)
+    if (feature[81] <= -120.0)
+     if (feature[94] <= -113.0)
+      if (feature[1] <= -123.0)
+       return false;
+      else if (feature[1] > -123.0)
+       return true;
+     else if (feature[94] > -113.0)
+      if (feature[3] <= -112.0)
+       return false;
+      else if (feature[3] > -112.0)
+       return true;
+    else if (feature[81] > -120.0)
+     if (feature[99] <= -127.0)
+      if (feature[123] <= -123.0)
+       return true;
+      else if (feature[123] > -123.0)
+       return true;
+     else if (feature[99] > -127.0)
+      if (feature[14] <= -34.0)
+       return true;
+      else if (feature[14] > -34.0)
+       return false;

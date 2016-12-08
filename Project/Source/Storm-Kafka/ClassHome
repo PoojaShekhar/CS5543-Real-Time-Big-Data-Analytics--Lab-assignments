@@ -1,0 +1,94 @@
+If (feature 90 <= -128.0)
+   If (feature 93 <= -117.0)
+    If (feature 6 <= -126.0)
+     If (feature 122 <= -128.0)
+      If (feature 68 <= -57.0)
+       return false;
+      Else (feature 68 > -57.0)
+       return false;
+     Else (feature 122 > -128.0)
+      If (feature 29 <= -119.0)
+       return false;
+      Else (feature 29 > -119.0)
+       return false;
+    Else (feature 6 > -126.0)
+     If (feature 35 <= -128.0)
+      If (feature 98 <= -122.0)
+       return false;
+      Else (feature 98 > -122.0)
+       return false;
+     Else (feature 35 > -128.0)
+      If (feature 62 <= -128.0)
+       return true;
+      Else (feature 62 > -128.0)
+       return false;
+   Else (feature 93 > -117.0)
+    If (feature 126 <= -128.0)
+     If (feature 123 <= -127.0)
+      If (feature 43 <= -112.0)
+       return false;
+      Else (feature 43 > -112.0)
+       return false;
+     Else (feature 123 > -127.0)
+      If (feature 113 <= -125.0)
+       return false;
+      Else (feature 113 > -125.0)
+       return false;
+    Else (feature 126 > -128.0)
+     If (feature 110 <= -70.0)
+      If (feature 70 <= -13.0)
+       return false;
+      Else (feature 70 > -13.0)
+       return true;
+     Else (feature 110 > -70.0)
+      If (feature 8 <= -33.0)
+       return true;
+      Else (feature 8 > -33.0)
+       return false;
+  Else (feature 90 > -128.0)
+   If (feature 29 <= -128.0)
+    If (feature 68 <= -119.0)
+     If (feature 53 <= -128.0)
+      If (feature 20 <= -92.0)
+       return false;
+      Else (feature 20 > -92.0)
+       return false;
+     Else (feature 53 > -128.0)
+      If (feature 122 <= -26.0)
+       return false;
+      Else (feature 122 > -26.0)
+       return true;
+    Else (feature 68 > -119.0)
+     If (feature 41 <= -97.0)
+      If (feature 70 <= -128.0)
+       return false;
+      Else (feature 70 > -128.0)
+       return false;
+     Else (feature 41 > -97.0)
+      If (feature 97 <= -124.0)
+       return false;
+      Else (feature 97 > -124.0)
+       return true;
+   Else (feature 29 > -128.0)
+    If (feature 81 <= -120.0)
+     If (feature 94 <= -113.0)
+      If (feature 1 <= -123.0)
+       return true;
+      Else (feature 1 > -123.0)
+       return false;
+     Else (feature 94 > -113.0)
+      If (feature 3 <= -112.0)
+       return true;
+      Else (feature 3 > -112.0)
+       return false;
+    Else (feature 81 > -120.0)
+     If (feature 99 <= -127.0)
+      If (feature 123 <= -123.0)
+       return false;
+      Else (feature 123 > -123.0)
+       return false;
+     Else (feature 99 > -127.0)
+      If (feature 14 <= -34.0)
+       return false;
+      Else (feature 14 > -34.0)
+       return true;
